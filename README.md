@@ -22,5 +22,3 @@ Everyone is welcome to participate (faculty and students alike). The only expect
 * [Neural Networks for NLP](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 
-## Previous Semesters
-* 
